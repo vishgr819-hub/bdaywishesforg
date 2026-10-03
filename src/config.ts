@@ -1,10 +1,9 @@
-// ============ EDIT EVERYTHING IN THIS FILE ============
-export type Stat = [label: string, value: number]; // value 0-100
+export type Stat = [label: string, value: number];
 
 export const config = {
   name: 'SPOODERMAN',
   password: 'SOUP', // not case-sensitive
-  passwordHint: 'Its literally 4 letters and you'll still text me asking for it.',
+  passwordHint: 'Its literally 4 letters and you\'ll still text me asking for it.',
 
   profile: {
     nickname: 'MONSIEE',
@@ -35,13 +34,12 @@ export const config = {
   // Blank line = new paragraph. Paragraphs fade in one by one.
   personalMessage: `HAPPY BIRTHDAYY PENGUIN, U'LL ALWAYS BE THE LIL ONE (EVENTHO YOU R 17)
 
-Imagine becoming one year older, and still being the same height xD. `,
+Imagine becoming one year older, and still being the same height xD.`,
 
   finalMessage: `You officially survived another year.
 Stark Labs has determined that you're still pretty awesome.
-Please continue being you. Happy bday once again future dr :) 
-All the best for your future endeavours, not sure if I'll be 
-there for all of your journey, yet atb`,
+Please continue being you. Happy bday once again future dr :)
+All the best for your future endeavours, not sure if I'll be there for all of your journey, yet atb`,
 
-  giftUrl: 'https://youtu.be/T14DQkV0fEQ?si=mJKPncmbMWvW90d5',
+  giftUrl: 'https://youtu.be/T14DQkvefEQ?si-mJKPncmbMWvW90dS',
 };
