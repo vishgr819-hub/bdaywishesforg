@@ -41,5 +41,5 @@ Stark Labs has determined that you're still pretty awesome.
 Please continue being you. Happy bday once again future dr :)
 All the best for your future endeavours, not sure if I'll be there for all of your journey, yet atb`,
 
-  giftUrl: 'https://youtu.be/4bzIpYiPUUo?si=oZJhKoak5Zzq2GZj',
+  giftUrl: 'https://www.youtube.com/embed/4bzIpYiPUUo',
 };
