@@ -2,24 +2,24 @@
 export type Stat = [label: string, value: number]; // value 0-100
 
 export const config = {
-  name: 'NAME',
-  password: 'PASSWORD', // not case-sensitive
-  passwordHint: 'You should probably know this one.',
+  name: 'SPOODERMAN',
+  password: 'SOUP', // not case-sensitive
+  passwordHint: 'Its literally 4 letters and you'll still text me asking for it.',
 
   profile: {
-    nickname: 'NICKNAME',
+    nickname: 'MONSIEE',
     stats: [
-      ['Threat level', 40],
-      ['Chaos level', 90],
-      ['Responsibility', 50],
-      ['Cuteness', 100],
-      ['Importance to Stark Labs', 100],
+      ['Threat level', 100],
+      ['Chaos level', 99],
+      ['Responsibility', 30],
+      ['Cuteness', 1000],
+      ['Importance to Stark Labs', 999],
     ] as Stat[],
   },
 
   analysis: [
     ['Sleep schedule', 20],
-    ['Common sense', 60],
+    ['Common sense', 50],
     ['Chaos', 90],
     ['Patience', 40],
     ['Awesomeness', 100],
@@ -27,19 +27,21 @@ export const config = {
   ] as Stat[],
 
   incident: {
-    mission: '[Funny event]',
-    damage: '[Funny description]',
-    casualties: '[Funny description]',
+    mission: 'TRYING TO ANNOY YOU',
+    damage: 'COMPLETE',
+    casualties: 'ALL',
   },
 
   // Blank line = new paragraph. Paragraphs fade in one by one.
-  personalMessage: `YOUR PERSONAL BIRTHDAY MESSAGE
+  personalMessage: `HAPPY BIRTHDAYY PENGUIN, U'LL ALWAYS BE THE LIL ONE (EVENTHO YOU R 17)
 
-Second paragraph here.`,
+Imagine becoming one year older, and still being the same height xD. `,
 
   finalMessage: `You officially survived another year.
 Stark Labs has determined that you're still pretty awesome.
-Please continue being you.`,
+Please continue being you. Happy bday once again future dr :) 
+All the best for your future endeavours, not sure if I'll be 
+there for all of your journey, yet atb`,
 
-  giftUrl: 'https://example.com',
+  giftUrl: 'https://youtu.be/T14DQkV0fEQ?si=mJKPncmbMWvW90d5',
 };
